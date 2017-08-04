@@ -1,0 +1,5 @@
+/home/wang/Desktop/raw_book/ch7/Kbuild/CMakeFiles/feature_extraction.dir
+/home/wang/Desktop/raw_book/ch7/Kbuild/CMakeFiles/pose_estimation_2d2d.dir
+/home/wang/Desktop/raw_book/ch7/Kbuild/CMakeFiles/pose_estimation_3d2d.dir
+/home/wang/Desktop/raw_book/ch7/Kbuild/CMakeFiles/pose_estimation_3d3d.dir
+/home/wang/Desktop/raw_book/ch7/Kbuild/CMakeFiles/triangulation.dir
